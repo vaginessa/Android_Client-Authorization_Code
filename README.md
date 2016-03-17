@@ -7,7 +7,7 @@ A aplicação possui as funcionalidade básicas de (Logar, Obter dados e Sair), 
 ## Créditos
 SINFO - Superintendência de Informática da UFRN
 
-OpenSIG - API de Serviços da UFRN
+API.sistemas - API de Serviços da UFRN
 
 ## Licença
 Copyright 2015 OpenSIG
